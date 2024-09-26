@@ -7,7 +7,8 @@ public abstract class AcademicEnvironment {
 
     public abstract void sayHi();
 
-    public abstract void learningGoal();
+    public abstract  void learningGoal();
+
 
 
 
